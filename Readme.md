@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/InteractiveRangeSelect/Form1.cs) (VB: [Form1.vb](./VB/InteractiveRangeSelect/Form1.vb))
+* [Program.cs](./CS/InteractiveRangeSelect/Program.cs) (VB: [Program.vb](./VB/InteractiveRangeSelect/Program.vb))
+<!-- default file list end -->
 # How to implement range selection via a separate ChartControl
 
 
